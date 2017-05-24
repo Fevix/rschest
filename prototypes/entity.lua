@@ -31,7 +31,7 @@ data:extend ({
     
 	picture =
  { 
-filename = "__rs-chest__/graphics/entity/logistic-chest/logistic-chest-requester.png",
+filename = "__rs-chest__/graphics/entity/logistic-chest/logistic-chest-requester-storage.png",
  priority = "extra-high", width = 46,
       height = 33,
       shift = {0.3125, 0.015625}
