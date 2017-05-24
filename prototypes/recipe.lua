@@ -2,7 +2,7 @@ data:extend({
 	{
 	type = "recipe",
 	name = "logistic-chest-requester-storage",
-	enabled = "true",
+	enabled = false,
 	energy_required = 1,
 	ingredients = 
     {
