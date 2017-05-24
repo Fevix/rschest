@@ -1,0 +1,9 @@
+{
+	"name": "rs-chest",
+	"version": "0.0.1",
+	"title": "Request-Storage Chest",
+	"author": "Fevix",
+	"description": "Adds a new logistics chest that functions as a Request and Passive Provider simultaneously",
+	"factorio_version": "0.15",
+	"dependencies": ["base >= 0.15"]
+}
