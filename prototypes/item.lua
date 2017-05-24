@@ -4,8 +4,8 @@ data:extend({
         name = "logistic-chest-requester-storage",
         icon = "__rs-chest__/graphics/logistic-chest-requester-storage.png",
         flags = {"goes-to-quickbar"},
-        subgroup = "storage",
-        order = "a[items]-a[logistic-chest-requester-storage]",
+        subgroup = "logistic-network",
+        order = "b[storage]-c[logistic-chest-passive-provider]-a",
         place_result = "logistic-chest-requester-storage",
         stack_size = 50
     }
